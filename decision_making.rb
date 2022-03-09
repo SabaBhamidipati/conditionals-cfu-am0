@@ -35,9 +35,23 @@ end
 
 # Questions
 # 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+#    The code is evaluating user input 1 or 2. Based on the user input, it assigns a value to "bear_clothing"
+
 # 2. What variable has a new value assigned to it after the first if statement executes?
+#    bear_clothing
+
 # 3. If you changed the variable door_choice to equal 3, what would the bear_clothing value be?
+#    scarf
+
 # 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+#    the conditional evaluates the assigned value for bear_choice (1-3) and presents an ending assigned to that choice, If your input is anything but
+#    1-3, it will print "You stay with the bear...."
+
 # 5. If you changed the variable bear_choice to equal 3, what will be the final outcome be?
+#    "You run..."
+
 # 6. If you changed the variable door_choice to equal 1, and the variable bear_choice to equal 2, what will be the final outcome be?
+#    The bear is wearing a hat, you tell the bear, and it starts to cry
+
 # 7. What is your favorite ending?
+#     "You run...."
